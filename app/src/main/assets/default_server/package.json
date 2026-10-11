@@ -1,0 +1,7 @@
+{
+  "name": "droidnode-server",
+  "version": "1.0.0",
+  "description": "Embedded Android Node.js App",
+  "main": "server.js",
+  "dependencies": {}
+}
