@@ -48,4 +48,3 @@ class NodeRuntimeViewModel(application: Application) : AndroidViewModel(applicat
         _uiState.update { it.copy(installLogs = emptyList()) }
     }
 }
- 
